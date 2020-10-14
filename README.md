@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-### I am Saurav Dhakad
+### I am Saurav.
 - Machine Learning Engineer @ [Unity Technologies](https://github.com/Unity-Technologies)
 - Computer Science @ [Columbia University](https://www.columbia.edu/)
 - Add me on LinkedIn to connect and collaborate.
